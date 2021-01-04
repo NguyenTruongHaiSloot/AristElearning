@@ -1,6 +1,6 @@
 site_name: Arist Elearning
 nav:
-    - Giới thiệu: index.md
+    - Giới thiệu: index.rst
     
     - Hướng dẩn sử dụng:
       
