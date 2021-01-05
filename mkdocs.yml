@@ -1,8 +1,6 @@
 site_name: AristElearning
 nav:
-     - Giới thiệu: index.rst
-    - Hướng dẩn sử dụng:
-      
+    - Giới thiệu: index.rst
 theme: readthedocs
 use_directory_urls: true
 site_url: null
