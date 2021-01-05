@@ -10,4 +10,3 @@ extra_css: [custom/extra.css]
 formats:
   - epub
   - pdf
-
