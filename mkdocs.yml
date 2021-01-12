@@ -1,6 +1,14 @@
 site_name: AristElearning
 nav:
     - Giới thiệu: index.md
+
+    - Hướng dẩn sử dụng:
+        - Quản lý học viên: directions_for_use/user.md
+        - Dạng câu hỏi: directions_for_use/question_type.md
+        - Câu hỏi: directions_for_use/question.md
+        - Quản lý luyện tập: directions_for_use/practice_manage.md
+        - Luyện tập: directions_for_use/practice.md
+
 theme: readthedocs
 use_directory_urls: true
 site_url: null
