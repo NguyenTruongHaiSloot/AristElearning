@@ -1,4 +1,4 @@
-# *Quản lý dạng câu hỏi*
+## *Quản lý dạng câu hỏi*
 
 Quản lý danh sách các dạng câu hỏi trên phần mềm AristElearning bao gồm:
 >

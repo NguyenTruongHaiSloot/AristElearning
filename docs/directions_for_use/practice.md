@@ -1,4 +1,4 @@
-# *Phần luyện tập*
+## *Phần luyện tập*
 
 Học viên khi chọn vào phần luyện tập **Practice** thì sẽ chuyển sang giao diện luyện tập.
 
